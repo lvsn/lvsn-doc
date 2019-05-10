@@ -32,7 +32,7 @@ make install
 cd ..
 
 ############
-# ncurses  # DO not need this anymore, song
+# ncurses  # uncomment this if you will need it, song
 ############
 #tar xvzf ncurses-${NCURSES_VERSION}.tar.gz
 #cd ncurses-${NCURSES_VERSION}
