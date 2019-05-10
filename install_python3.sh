@@ -1,7 +1,6 @@
 #!/bin/bash
 PYTHON_VERSION="3.6.8"
 
-
 # install python2/3 locally step by step
 # Install python to local directory
 
